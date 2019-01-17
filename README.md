@@ -1,0 +1,2 @@
+# Manifesto
+A Personal Manifesto
