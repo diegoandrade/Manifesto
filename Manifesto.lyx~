@@ -125,20 +125,58 @@ Chaos and mediocrity
 \end_layout
 
 \begin_layout Standard
-This universe has many mysteries, too many mysteries, and few little answers.
- Even when we found an answer when we figure out a way of connecting the
- dots the universe has an underlying way of stopping our efforts.
- The majority is closed off to our minds.
- If we examine our behavior and our way of thinking, we go to autopilot
- most of the time.
- This is by design, our minds are bombarded with stimuli, the reality of
- our problems and mistakes does not come clear unless we make an effort
- to balance the inputs.
+Chaos is a measurement of time, yes it is.
+ Chaos is a form of entropy and without entropy we can not measure time,
+ maybe time itself is a construct and we can perceive it that way because
+ it sudds our unvevolved hominidaid brain, maybe we can transcend it one
+ day, in a different generation of evolved humans or maybe our descendants
+ the machines can do it.
+ For our case time is intangible incomprehensible but way to real to leave
+ it as is.
+ So time and chaos go hand to hand, there is no way we can win the fight
+ agains time or disorder but we must try.
+ But how do this, specially if we examine our behavior and our way of thinking,
+ we go to autopilot most of the time.
+ Our minds are bombarded with stimuli, the reality of our problems and mistakes
+ does not come clear unless we make an effort to balance the inputs.
  The streams of data are vast but we can only manage as many inputs as we
- can speak back or move the levers with our appendages, the input to output
+ can speak back or move levers with our appendages, the input to output
  ratio is gigantic.
- In other words, we can not manage the sensory overload.
- This is also a feature of our universe our existence.
+ In other words, we can not manage the sensory overload, and this is like
+ so by design.
+ 
+\end_layout
+
+\begin_layout Standard
+The best alternative to chaos is order but for us unique lifeforms – the
+ perfect entropy mechanism adding disorder by simply existing – is not so
+ easy 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "rovelli2018order"
+literal "false"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "rovelli2018order"
+literal "false"
+
+\end_inset
+
+.
+ Because order presuppose a well thought off purpose, ideals and goals.
+ Unfortunately in our society after eighteen to twenty one years of a shelter
+ bringup the perfect path stops abruptly, no notion of a goal is known,
+ and depression and anxiety settles.
+ Many people can go for another decade in a haze to find themselves all
+ of the sudden panic without meaning in their lives.
+\end_layout
+
+\begin_layout Standard
+This is also a feature of our universe our existence.
  For most of our time, we have to fight with this multitude of images and
  dreams and ideas, most of them are just unsolvable, vapor in the ether,
  mere nothing.
@@ -148,21 +186,43 @@ This universe has many mysteries, too many mysteries, and few little answers.
  of a great goal is length and effort.
  Climbing a high mountain, running a marathon, playing a difficult song,
  drawing a portrait or meditate every day.
- 
+ Each one of those goals takes time to achieve and there lies again the
+ possibility of meaning,effort as measure of it, chaos and entropy adds
+ other dimensions, but time is a the center of the most important achievements.
 \end_layout
 
 \begin_layout Standard
-CHaos is a measurement of time, yes it is.
- CHaos is a form of entropy and without entropy we can not measure time,
- maybe time itself is a construct and we can perceive it that way bacause
- it suesds our chimp brain, maybe we can trascend it one day, in a differente
- genration of evolved humans or maybe our descentdst the mahines can do
- it.
- For our case time is intagiable incomhensible but way to real to leave
- it as is.
- So time and chaos go hand to hand, there is no way we can win the fight
- agains time or dissorder but we must try.
- HOW?
+Mediocrity is trying, yes exactly.
+ We just merely try to fight chaos but not put all in, it is a simple change
+ but not a complete change
+\end_layout
+
+\begin_layout Subsection*
+Knowledge
+\end_layout
+
+\begin_layout Standard
+This universe has many mysteries, too many mysteries, and few little answers.
+ Even when we found an answer when we figure out a way of connecting the
+ dots the universe has an underlying way of stopping our efforts.
+ The majority is closed off to our minds.
+ This does not mean that we can not achieve a minimal understanding of at
+ least our sourrandings and the way our world works.
+ It is most likely that we will never achieve complete knowlegde and it
+ is mathematically proven (ref) that there are problems that are unsolvaable
+ and questions that to do not have ansewers.
+ To that point in my oponion knowsing how to ask a proper thesis is sometimes
+ more valid that the answers.
+ Formulations of a questions takes trully mastery and answering maybe years
+ to a lifetime when a domainnew, and there is where proper progress resides.
+\end_layout
+
+\begin_layout Subsection*
+Adventure
+\end_layout
+
+\begin_layout Standard
+The called to adventure, 
 \end_layout
 
 \begin_layout Subsubsection*
@@ -175,7 +235,7 @@ Body
 
 \begin_layout Standard
 Work, I need to find a path that makes me more creative and really pushes
- me to learn even more, apath that is transferable into a service or a bussiness
+ me to learn even more, path that is transferable into a service or a business
  that can give to Rafa as a Legacy.
 \end_layout
 
@@ -191,7 +251,7 @@ Mind
 
 \begin_layout Standard
 Meditate almost daily as many time as possible, take a nap, positive and
- negative thoughts, be a true stoich
+ negative thoughts, be a true stoic
 \end_layout
 
 \begin_layout Subsubsection*
@@ -268,6 +328,18 @@ Plan for the planet
 
 \begin_layout Standard
 Bring back the hummingbird to Quito
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "manifestoBIB"
+options "plain"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
